@@ -20,11 +20,11 @@ function createFareMultiplier(number) {
     }
 }
 
-function fareDoubler(fair){
+const fareDoubler =function (fair){
     return fair*2
 }
 
-function fareTripler(fair){
+const fareTripler = function(fair){
     return fair* 3
 }
 
